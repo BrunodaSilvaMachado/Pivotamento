@@ -215,21 +215,21 @@ A partir do metodo de eliminação de Gauss vamos resolver o seguinte sistema:
 
 ao montarmos essas equações em forma de matriz e salvar um arquivo os executamos o programa para soluciona -los usando o método de Gauss, o codigo pode ser visto na sessão anterior, dessa forma obtemos os seguintes resultados 
 
-##Questão a##
+## Questão a ##
 
-![execicios a](imagens/slm1.png)
+![execicios a](imagens/slm1.PNG)
 
-##Questão b##
+## Questão b ##
 
-![execicios b](imagens/slm2.png)
+![execicios b](imagens/slm2.PNG)
 
-##Questão c##
+## Questão c ##
 
-![execicios c](imagens/slm3.png)
+![execicios c](imagens/slm3.PNG)
 
-##Questão d##
+## Questão d ##
 
-![execicios d](imagens/slm4.png)
+![execicios d](imagens/slm4.PNG)
 
 
 
